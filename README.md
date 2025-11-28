@@ -3,4 +3,4 @@ This is an implementation of submitted paper. In this paper, we proposed an auto
 # Codes
 The code in the paper will be shared upon manuscript acceptance.
 # Vedio
-
+The vedio is an illustration of robotic arm application. See it in the main.
