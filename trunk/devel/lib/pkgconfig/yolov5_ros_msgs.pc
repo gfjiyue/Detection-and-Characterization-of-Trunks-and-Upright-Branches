@@ -1,0 +1,8 @@
+prefix=/home/c302/yolo-ros/devel
+
+Name: yolov5_ros_msgs
+Description: Description of yolov5_ros_msgs
+Version: 1.0.0
+Cflags: -I/home/c302/yolo-ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

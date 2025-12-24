@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/c302/yo/devel -DCMAKE_INSTALL_PREFIX=/home/c302/yo/install -G Unix Makefiles
